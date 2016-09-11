@@ -1,0 +1,12 @@
+PODS:
+  - TwilioClient (1.2.11)
+
+DEPENDENCIES:
+  - TwilioClient (~> 1.2)
+
+SPEC CHECKSUMS:
+  TwilioClient: 5cfe00ff8a865d24a8b14e297c302d7c20cda7ae
+
+PODFILE CHECKSUM: 5e8fa2b307305178eae84a593db44d7a5704044e
+
+COCOAPODS: 1.0.1
